@@ -1,0 +1,55 @@
+TEXTS = {
+    "choose_language": "Choose your language / Выберите язык:",
+    "language_saved": "Language successfully changed!",
+    "welcome": "Welcome to the Warehouse Bot!",
+    "main_menu": "Main menu:",
+    "stock_title": "📦 Warehouse stock:",
+    "add_product": "➕ Add product",
+    "write_off": "➖ Write off",
+    "stock": "📦 Stock",
+    "find": "🔎 Search",
+    "delete": "🗑 Delete product",
+    "history": "📋 Operation history",
+    "language": "🌐 Language",
+    "cancel": "❌ Cancel",
+
+    "enter_product_name": "Enter product name:",
+    "enter_quantity": "Enter quantity (from 1 to 1000000):",
+    "product_added": "Product successfully added!",
+    "invalid_name": "The name must contain 2 to 100 characters.",
+    "invalid_quantity": "Enter an integer from 1 to 1000000.",
+
+    "empty_stock": "The stock is empty.",
+    "not_found": "Product not found.",
+    "select_product": "Select a product:",
+    "available": "Available in stock",
+    "enter_writeoff": "Enter the quantity to write off:",
+    "insufficient_stock": "Not enough stock.",
+    "writeoff_success": "Write-off completed successfully.",
+    "remaining": "Remaining",
+
+    "cancelled": "Action cancelled.",
+    "send_text": "Please send a text message.",
+    "error": "An error occurred. Please try again later.",
+
+    "select_delete": "Select a product to delete:",
+    "confirm_delete": "Are you sure you want to delete this product?",
+    "deleted": "Product deleted.",
+
+    "search_prompt": "Enter a product name or part of its name:",
+    "search_results": "Search results:",
+    "no_products": "No products found.",
+
+    "history_empty": "Operation history is empty.",
+    "history_title": "📋 Recent operations:",
+    "action_add": "Added",
+    "action_remove": "Written off",
+    "action_delete": "Deleted",
+
+    "total": "Total",
+    "positions": "products",
+    "units": "units",
+
+    "confirm": "✅ Yes, delete",
+    "back": "⬅️ Back",
+}
